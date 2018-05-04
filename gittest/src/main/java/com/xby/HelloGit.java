@@ -6,5 +6,6 @@ public class HelloGit {
 		System.out.println("Hello Git");
 		System.out.println("hello");
 		System.out.println("分支测试");
+		System.out.println("切回主干");
 	}
 }
